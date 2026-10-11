@@ -1,1 +1,20 @@
-
+{
+  "name": "AuroraJB",
+  "subtitle": "Ma liste d'IPA",
+  "description": "Mes applications iOS.",
+  "apps": [
+    {
+      "name": "Dopamine",
+      "bundleIdentifier": "opa334.Dopamine",
+      "developerName": "opa334",
+      "versions": [
+        {
+          "version": "3.0",
+          "buildVersion": "1",
+          "downloadURL": "https://github.com/opa334/Dopamine/releases/download/3.0.10/Dopamine.ipa"
+        }
+      ]
+    }
+  ],
+  "news": []
+}
