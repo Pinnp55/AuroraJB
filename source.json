@@ -7,6 +7,9 @@
       "name": "Dopamine",
       "bundleIdentifier": "opa334.Dopamine",
       "developerName": "opa334",
+      "subtitle": "Dopamine pour iOS",
+      "localizedDescription": "Version de test de Dopamine.",
+      "iconURL": "https://raw.githubusercontent.com/Pinnp55/AuroraJB/main/model.png",
       "versions": [
         {
           "version": "3.0",
